@@ -57,4 +57,4 @@ if __name__ == "__main__":
     df = generar_datos()
     df = procesamiento(df)
     resumen(df)
-!python finanzas_dt.py
+python finanzas_dt.py
