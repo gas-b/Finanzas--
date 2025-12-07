@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.write(''' # Predicción de Finanzas Personales ''')
-st.image("finanzas🤑.jpg", caption="Control financiero mensual.")
+st.image("Finanzas🤑.jpg", caption="Control financiero mensual.")
 
 st.header('Datos de evaluación')
 
