@@ -15,7 +15,7 @@ Original file is located at
 # from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
 # 
 # st.write(''' # Predicción de Finanzas Personales ''')
-# st.image("dinero.jpg", caption="Control financiero mensual.")
+# st.image("Finanzas🤑.jpg", caption="Control financiero mensual.")
 # 
 # st.header('Datos de evaluación')
 # 
